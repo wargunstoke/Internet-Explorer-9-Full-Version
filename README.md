@@ -257,4 +257,4 @@ This repository serves as the official landing page for Internet Explorer 9. The
 **Get the most recent version of Internet Explorer 9 today!**
 
 ---
-**Last updated:** 2026-10-01 12:53:20 UTC
+**Last updated:** 2026-10-01 18:46:11 UTC
